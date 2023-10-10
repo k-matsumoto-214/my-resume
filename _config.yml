@@ -1,5 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-remote-theme
-title: k-matsumoto-214の職務経歴書
-description: 職務経歴書
+title: 職務経歴書
+description: k-matsumoto-214の職務経歴書

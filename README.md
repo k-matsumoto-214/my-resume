@@ -1,5 +1,3 @@
-# 職務経歴書
-
 ## 【GitHub アカウント】
 
 [k-matsumoto-214](https://github.com/k-matsumoto-214)
